@@ -1,17 +1,91 @@
+# 👋 Hi there, I'm Caner!
 
-<h1 align="center">Hi 👋, I'm Caner Kete</h1>
-<h3 align="center">A passionate data scientist from Turkey</h3>
+🎯 **Aspiring Data Scientist**  
+📍 Based in Turkey | 🌐 Interested in Global AI & Data Science Projects  
+💻 Passionate about **Python, Machine Learning, Deep Learning, and Data Visualization**  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=canerkete" alt="canerkete" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/_caner728288216" target="blank"><img src="https://img.shields.io/twitter/follow/_caner728288216?logo=twitter&style=for-the-badge" alt="_caner728288216" /></a> </p>
+## 🧠 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/_caner728288216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_caner728288216" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/caner kete" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caner kete" height="30" width="40" /></a>
-<a href="https://instagram.com/instagram _canerkete" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram _canerkete" height="30" width="40" /></a>
-</p>
+- 📊 I’ve completed multiple professional data science & machine learning training programs.  
+- 🧩 I love combining **mathematics, coding, and AI** to solve real-world problems.  
+- 🚀 I enjoy building end-to-end systems — from **data collection (IoT/Arduino)** to **modeling and visualization** in Python.  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+## 🎓 Education & Certifications
+
+### **Data Science & AI Training Path (Completed 2025)**
+| Course | Instructor | Focus Area |
+|:--|:--|:--|
+| Microsoft Excel: From Beginner to Expert | Emre Akyüz | Data Analysis Fundamentals |
+| Excel VBA (Macro): From Beginner to Advanced | Emre Akyüz | Automation & Data Processing |
+| Python A-Z™: Data Science & Machine Learning | Vahit Keskin | Python, ML, Pandas, NumPy, Sklearn |
+| Statistics for Data Science (Python-Based) | Vahit Keskin | Probability, Hypothesis Testing, Regression |
+| R for Data Science & Machine Learning | Vahit Keskin | R, ggplot2, caret, data wrangling |
+| Modern R Programming | — | R Programming & Functional Data Handling |
+| Deep Learning with Python (A-Z) | DATAI TEAM | Neural Networks, CNN, RNN, TensorFlow/Keras |
+| Data Science & Machine Learning 2025 Bootcamp | Atil Samancioglu | End-to-End ML Projects & AI Applications |
+
+---
+
+## 🧰 Tech Stack
+
+**Languages:**  
+`Python` · `R` · `SQL` · `VBA` · `HTML/CSS`  
+
+**Libraries & Tools:**  
+`NumPy` · `Pandas` · `Matplotlib` · `Seaborn` · `Scikit-learn` · `TensorFlow` · `Keras` · `OpenCV`  
+`RStudio` · `ggplot2` · `tidyverse` · `caret`  
+`Excel` · `Power BI` · `Jupyter Notebook` · `VS Code` · `Git` · `GitHub`  
+
+**Other Interests:**  
+`Data Visualization` · `IoT & Arduino` · `Automation` · `AI Ethics` · `Data Storytelling`
+
+---
+
+## 💼 Projects
+
+### 🔹 **CANER: IoT Weather Station**
+> **Technologies:** Arduino Mega 2560, LM35, LDR, ESP8266, Python  
+- Collected temperature and light data via sensors.  
+- Sent data wirelessly (ESP-A4C62 Wi-Fi module) to a Python interface.  
+- Visualized live weather info (temperature, light intensity, wind status).  
+- Planned to expand into a web-based real-time weather dashboard.  
+
+### 🔹 **Data Science Bootcamp Projects**
+> From "Data Science & Machine Learning 2025 Bootcamp"  
+- Built regression and classification models (Linear, Logistic, Random Forest).  
+- Implemented clustering and dimensionality reduction (K-Means, PCA).  
+- Worked with real-world datasets (finance, health, e-commerce).  
+
+### 🔹 **Deep Learning Projects**
+> From “Deep Learning & Python A-Z”  
+- Image classification using **CNN**.  
+- Time series forecasting using **RNN/LSTM**.  
+- Transfer learning with **TensorFlow/Keras**.  
+
+### 🔹 **Excel & VBA Automation**
+> From Emre Akyüz Excel courses  
+- Automated data reports with macros.  
+- Created custom dashboards with VBA buttons & forms.  
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect With Me
+
+- 💼 [LinkedIn](https://linkedin.com/)  
+- 🧠 [Kaggle](https://kaggle.com/)  
+- 📧 caner.data@gmail.com  
+
+---
+
+> “Data is the new oil, but insight is the new gold.” – Clive Humby  
