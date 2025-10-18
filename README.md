@@ -82,9 +82,9 @@
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://linkedin.com/)  
-- 🧠 [Kaggle](https://kaggle.com/)  
-- 📧 caner.data@gmail.com  
+- 💼 [LinkedIn](www.linkedin.com/in/caner-kete-880899368)  
+- 🧠 [Kaggle](https://kaggle.com/canerkete)  
+- 📧 ckete57@gmail.com  
 
 ---
 
