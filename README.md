@@ -75,8 +75,10 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+## GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ali-veli&show_icons=true&theme=radical)](https://github.com/caner-kete)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-veli&layout=compact&theme=radical)](https://github.com/caner-kete)
 
 ---
 
