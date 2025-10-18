@@ -47,7 +47,7 @@
 
 ## 💼 Projects
 
-### 🔹 **CANER: IoT Weather Station**
+### 🔹 ** IoT Weather Station**
 > **Technologies:** Arduino Mega 2560, LM35, LDR, ESP8266, Python  
 - Collected temperature and light data via sensors.  
 - Sent data wirelessly (ESP-A4C62 Wi-Fi module) to a Python interface.  
