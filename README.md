@@ -77,8 +77,8 @@
 
 ## GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ali-veli&show_icons=true&theme=radical)](https://github.com/caner-kete)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-veli&layout=compact&theme=radical)](https://github.com/caner-kete)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ali-veli&show_icons=true&theme=radical)](https://github.com/canerkete)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali-veli&layout=compact&theme=radical)](https://github.com/canerkete)
 
 ---
 
